@@ -1,5 +1,5 @@
 # Hey there, I'm Katie Hang!
-## About
+I'm a software engineer and web developer with an extensive background in accounting.
 
 ## Projects
 

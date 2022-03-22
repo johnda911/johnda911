@@ -1,6 +1,8 @@
 # Hey there, I'm Katie Hang!
 I'm a software engineer and web developer with an extensive background in accounting.
 
+In my spare time I'm an avid boulderer and rock climber and when I'm not working on software related projects I find a lot of my time is spent on designing web pages, and exploring outdoor sports.
+
 ## Projects
 
 ### [whatsGood](https://whats-good-now.herokuapp.com/#/)

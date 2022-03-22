@@ -1,5 +1,7 @@
 # Hey there, I'm Katie Hang!
-I'm a software engineer and web developer with an extensive background in accounting.
+I'm a software engineer and web developer from New York City.
+
+I have experience with JavaScript, React/Redux, Node.js, Python, Ruby, Rails, SQL, PostgreSQL, MongoDB, GraphQL, Apollo, Git, Docker, AWS, HTML5, CSS3, and Heroku.
 
 In my spare time I'm an avid rock climber and when I'm not working on software related projects I find a lot of my time is spent on designing web pages, and exploring outdoor sports.
 
